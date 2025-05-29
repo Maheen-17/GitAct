@@ -1,6 +1,3 @@
-def add_numbers(a, b):
-    return a + b
-
-# Example usage
-result = add_numbers(3, 5)
-print(result)  # Output will be 8
+a = 6;
+b = 6;
+sum = a+b;
