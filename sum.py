@@ -1,4 +1,6 @@
 def add_numbers(a, b):
     return a + b
-    result = add_numbers(5, 7)
-print(f"The sum is: {result}")
+
+# Example usage
+result = add_numbers(3, 5)
+print(result)  # Output will be 8
